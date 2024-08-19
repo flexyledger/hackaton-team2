@@ -37,3 +37,43 @@ Public transit accounts for most trips in Manila but faces issues like traffic c
 * IPFS for decentralized storage
 
 ##### This blockchain solution empowers Manila to finally overcome its public transit challenges.
+
+# Changelogs
+
+```
+coming soon
+```
+
+<!-- Changelogs 
+# 📜 Changelogs
+
+<!-- Background github cover with short introduction down below 
+
+
+# README
+
+> [!NOTE]
+> Sample only bala ka sa buhay mo
+
+> [!TIP]
+>  Ey ka muna Ey Eyy
+> Add Contribution
+> Add comment
+
+> [!IMPORTANT]
+> Crucial Important deep shit
+
+> [!WARNING]
+> Mama mo warning
+> Papa mo warning
+
+> Will create table
+> And Topic
+> Partial code only
+> Idol Luka
+> Hello nothing to edit for now
+> Implement blockchain soon 
+> No code for today
+> Will do this in weekend
+> Will do this later
+-->
